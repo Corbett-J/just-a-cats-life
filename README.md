@@ -1,4 +1,4 @@
-# Just a Cats Life (The Renpy Example Project)
+# Just a Cats Life (Renpy Example Project)
 This is a Python based project I worked on with an artist friend. They provided all the art and dialogue, while I provided the code. We worked together on the story and gameplay direction.
 This was coded in a casual time-frame over the course of about a week while working with said friend on the visuals the code produces.
 
